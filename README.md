@@ -15,7 +15,7 @@ Learn how to add pagination to an API in Rails. Application is built and run usi
 ## Run this application
 
 ```
-git clone git clone https://github.com/ec-codecasts/e4-rails-api-pagination.git
+git clone git clone https://github.com/devteds/e4-rails-api-pagination.git
 cd e4-rails-api-pagination
 # edit docker-compose.yml to set the mysql & rails ports to be mapped on host
 docker-compose build
